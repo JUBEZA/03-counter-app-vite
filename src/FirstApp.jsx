@@ -1,11 +1,11 @@
-export const FirstApp = () => {
+export const FirstApp = ({ title, subtitle }) => {
 
 
 
   return (
     <>
-     <h1> Juan </h1>
-     <p>Soy un subtitulo</p>
+     <h1>{ title } </h1>
+     <p>{ subtitle }</p>
     </>
   )
 }
