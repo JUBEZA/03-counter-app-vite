@@ -16,4 +16,4 @@ describe('Pruebas en <DemoComponent />', () => {
   });
 
 });
-.
+
