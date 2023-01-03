@@ -1,1 +1,1 @@
-# 03-counter-app-vite-PRUEBAS.
+# 03-counter-app-vite-PRUEBAS
